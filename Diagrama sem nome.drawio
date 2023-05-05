@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-05-05T19:06:22.177Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0" etag="swXhG1WUwnzOvikHuDQQ" version="21.1.4" type="device">
+  <diagram name="Página-1" id="TI81ffDV3xGhNf-XdPs4">
+    <mxGraphModel dx="954" dy="602" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4vjPag0YuErrlSmDhK2L-5" value="&lt;div&gt;Usuario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="189" width="44" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="189" as="sourcePoint" />
+            <mxPoint x="230" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4vjPag0YuErrlSmDhK2L-11">
+          <mxGeometry x="0.26" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-14" value="&lt;div&gt;Registrar-se&lt;br&gt;&lt;/div&gt;&lt;div&gt;Criar perfil e personalizar ele&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="256" y="96" width="176" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-15" value="Enviar mensagens/vídeos/fotos para outros usuários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="198" width="192" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="229.5" as="sourcePoint" />
+            <mxPoint x="240" y="229.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="192" y="229.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4vjPag0YuErrlSmDhK2L-16">
+          <mxGeometry x="0.26" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="288" as="sourcePoint" />
+            <mxPoint x="240" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4vjPag0YuErrlSmDhK2L-19">
+          <mxGeometry x="0.26" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-21" value="&lt;div&gt;Receber mensagens/videos/fotos de outros usuários&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="256" y="304" width="176" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="121.5" y="168" as="sourcePoint" />
+            <mxPoint x="122" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-23" value="&lt;div&gt;Fazer Login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="32" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-24" value="Interagir com a publicação de outros usuários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vjPag0YuErrlSmDhK2L-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="306" as="sourcePoint" />
+            <mxPoint x="128" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
